@@ -46,7 +46,9 @@ const Home = () => {
 				<img className="section-title" src={about_title} alt="About" />
 				<div id="about-text-container">
 					<p>
-						Planned in collaboration with&nbsp;
+						VenusHacks is UCI’s largest women-centric hackathon, an annual event
+						empowering women, gender minorities, and other underrepresented
+						groups in tech. Hosted by&nbsp;
 						<a
 							href="https://wics.ics.uci.edu/"
 							target="_blank"
@@ -62,18 +64,17 @@ const Home = () => {
 						>
 							Hack at UCI
 						</a>
-						,&nbsp; VenusHacks is UCI’s largest women-centric hackathon and will
-						take place fully in-person in Spring 2024!
+						,&nbsp;the hackathon is open to participants of all experience
+						levels with a mission to increase diversity in the tech industry by
+						providing an inclusive community where students can receive the
+						support to grow and express their creativity in computing.
 					</p>
 					<p>
-						Our mission is to empower underrepresented groups by providing an
-						inclusive community to foster growth and creativity in computing.
-						VenusHacks will be open to participants of all experience levels, as
-						we aim to increase diversity in tech through support, exposure, and
-						community. Join us as we welcome high school (18+), undergraduate,
-						and graduate students to participate in our 36-hour (non-overnight)
-						event that includes networking, fun activities, educational
-						workshops, and lots of coding!
+						This year, VenusHacks will take place fully in-person in Spring
+						2024! Join us as we welcome high school (18+), undergraduate, and
+						graduate students to participate in our 36-hour (non-overnight)
+						event that includes workshops, networking, fun activities, free food
+						and swag, and lots of coding! Happy hacking!
 					</p>
 				</div>
 			</section>
